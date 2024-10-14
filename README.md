@@ -11,7 +11,7 @@ Vite v5.4.8
 ## Запуск и настройка проекта
 
 проект можно скопировать и запустить локально , а так же он доступен по:
-* [ссылка]()
+* [ссылка](https://testing-task-dcopevfsr-davids-projects-908c5a80.vercel.app/)
 
 * [репозиторий](https://github.com/DavidKhlutkov/testing-task.git)
 
